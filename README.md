@@ -2,6 +2,9 @@
 
 Projeto acadêmico de Web Development Front-End. A página explora os 251 primeiros Pokémon com dados reais da [PokéAPI](https://pokeapi.co/docs/v2), em uma interface responsiva feita exclusivamente com HTML, CSS e JavaScript.
 
+**Site publicado:** https://loonder.github.io/pokedex-retro-front-end/  
+**Vídeo pitch:** https://loonder.github.io/pokedex-retro-front-end/pitch.html
+
 ## Executar
 
 Abra `index.html` no navegador ou, para desenvolvimento local, execute um servidor HTTP na pasta do projeto:
